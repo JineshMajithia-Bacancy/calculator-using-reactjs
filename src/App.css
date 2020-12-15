@@ -1,0 +1,26 @@
+.buttons{
+  display: block;
+  background-color: azure;
+}
+
+.buttons button{
+  width: 25%;
+  height: 50px;
+
+}
+
+.result{
+  margin: auto;
+  height: 70px;
+  width: 100%; 
+}
+
+.result p{
+  margin: auto;
+  font-size: 40px;
+}
+
+.body{
+  max-width: 500px;
+  margin: auto;
+}
