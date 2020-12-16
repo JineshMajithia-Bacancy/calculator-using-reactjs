@@ -25,6 +25,11 @@ class KeyPad extends Component{
                 <button id = "*" onClick = {this.buttonPressed}>*</button>
                 <button id = "=" onClick = {this.buttonPressed}>=</button>
                 <button id = "CE" onClick = {this.buttonPressed}>CE</button>
+                <button id = "SQ" onClick = {this.buttonPressed}>SQUARE</button>
+                <button id = "SQRT" onClick = {this.buttonPressed}>SQ. ROOT</button>
+                <button id = "(" onClick = {this.buttonPressed}>(</button>
+                <button id = ")" onClick = {this.buttonPressed}>)</button>
+                <button id = "x" onClick = {this.buttonPressed}>x</button>
             </div>
         )
     }
